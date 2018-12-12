@@ -23,4 +23,4 @@ In the 253 node problem, we notice a cluster (North East USA) of nodes that like
 
 * The ipynb file provides some commentary around the various steps of the script
 
-* The term paper and research is provided in the XXXX file
+* The term paper and research is provided in the Computational Complexity DA pdf file
