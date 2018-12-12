@@ -1,4 +1,4 @@
-### Solution Visualization
+### Solution Visualizations created in Tableau 
 
 1. "253 USA 3.PNG" Map of optimal solution for 253-node solution zoomed on continental US
 2. "253 global 3.PNG" Map of entire optimal path for 253-node solution
